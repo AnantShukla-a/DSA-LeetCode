@@ -7,6 +7,7 @@ Daily DSA question practice on Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Daily DSA question practice on Leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
