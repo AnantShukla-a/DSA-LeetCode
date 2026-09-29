@@ -8,6 +8,7 @@ Daily DSA question practice on Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,9 @@ Daily DSA question practice on Leetcode
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
