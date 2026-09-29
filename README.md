@@ -11,4 +11,16 @@ Daily DSA question practice on Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnantShukla-a/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
